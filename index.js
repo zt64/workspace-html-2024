@@ -20,7 +20,6 @@ import './style.css';
         //highlisht tags
         $.each(elementlist, function (i, v) {
             var tn = v.tagName.toLowerCase();
-            console.log(tn);
             $("span.element")
                     .filter(function () {
                         return $(this).text() === tn;
