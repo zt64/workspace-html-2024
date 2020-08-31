@@ -15,7 +15,7 @@ import './style.css';
     var elementlist = $(".practice * ");
     //load the external html  --- This portion of code need to run on server
 
-    /$("#side").load("HTMLelements.html", function () {
+    //$("#side").load("HTMLelements.html", function () {
 
         //highlisht tags
         $.each(elementlist, function (i, v) {
