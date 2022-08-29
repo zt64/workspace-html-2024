@@ -31,9 +31,9 @@ $(document).ready(function () {
     $(".practice").click(function (e) {
         var posx = $(this).width() - e.pageX + $(this).offset().left;
         var posy = e.pageY - $(this).offset().top;
-        console.log(posx);
-        console.log(posy);
-        console.log($(this).width());
+        //console.log(posx);
+        //console.log(posy);
+        //console.log($(this).width());
         if (posx < 30 && posy < 50) {
             $(this).toggleClass("ahide");
         }
