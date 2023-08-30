@@ -1,3 +1,3 @@
-# workspace-html-2020
+# workspace-html-2023
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/workspace-html-2020)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/yilianz/workspace-html-2023/?file=index.html)
