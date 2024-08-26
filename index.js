@@ -1,5 +1,5 @@
-// Import stylesheets
-import "./css/main.css";
+// Import stylesheets only in module
+//import "./css/main.css";
 
 
 // stackblitz do not support the external loading
